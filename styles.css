@@ -65,6 +65,7 @@ footer {
     justify-content: center;
     gap: 10px; /* Espacio entre los botones */
     height: 60px; /* Altura del footer */
+    z-index: 100;
 }
 
 /* Estilos para los botones */
